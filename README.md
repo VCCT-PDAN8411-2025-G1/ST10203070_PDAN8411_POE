@@ -1,6 +1,6 @@
 # ST10203070_PDAN8411_POE - Maximilian Walsh
 
-This repository contains the complete submission for the **PDAN8411** Part 1 & 2 assessment by **Maximilian Walsh**.
+This repository contains the complete submission for the **PDAN8411** POE assessment by **Maximilian Walsh**.
  
 ---
 
@@ -20,7 +20,15 @@ This repository contains the complete submission for the **PDAN8411** Part 1 & 2
 
 - `data.csv`:  
   The chosen cancer-related dataset for PART 2.
-  
+
+- `ST10203070_PDAN8411_POE.ipynb`:  
+  The Jupyter notebook used for data exploration, feature engineering, model training, and evaluation for the final POE part. Including all relevant code, graphs, model diagnostics, and markdown commentary.
+
+- `ST10203070_PDAN8411_POE_Report.pdf` (or `.docx`):  
+  The accompanying final **written report** for the final POE part, justifying the dataset and algorithm choice, summarising the modelling process, EDA insights, methodology, visual findings, and recommendations.
+
+- `IMDB_Dataset.csv`:  
+  The chosen text analysis dataset for the final POE part.
 ---
 
 ## Author
@@ -30,6 +38,6 @@ Student ID: ST10203070
 Module: PDAN8411 – Programming for Data Analytics  
 Institution: The Independent Institute of Education Varsity College Newlands
 
-Date: 26 May 2025
+Date: 25 June 2025
 
 ---
